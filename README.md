@@ -10,3 +10,7 @@ Dossier contenant le projet
 
 <img src="Directions.jpg"/>
 
+
+
+<img src="ResetPassword.jpg"/>
+
