@@ -14,3 +14,7 @@ Dossier contenant le projet
 
 <img src="ResetPassword.jpg"/>
 
+
+
+<img src="CreateAccount.jpg"/>
+
