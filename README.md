@@ -12,14 +12,14 @@ The features of app :
 	* [ ] Can find the address of 
 * [ ] Able to **Call the buisiness** 
 * [ ] User  can save a place to his library 
-* [] User can get updates on events ,  adress or contact changes , opening hours and more 
-* [] User can rate a place 
-* [] Get notifications based  on similar places and events 
+* [ ] User can get updates on events ,  adress or contact changes , opening hours and more 
+* [ ] User can rate a place 
+* [ ] Get notifications based  on similar places and events 
 using Google Map API 
 
 ##### Buisiness owner
 * [ ] Every business owner (or manager) can setup a free account to post photos and message their customers.
-	* [ ] Find what other users are saying  about their buisinesses 
+* [ ] Find what other users are saying  about their buisinesses 
 * [ ] can advertise  and promote on QuickZone 
 * [ ] Can update their buisiness information
 
@@ -34,7 +34,7 @@ using Google Map API
 <img src="CreateAccount.jpg"/>
 
 ## License
-	:copyright: Copyright 2018 QuickzoneTeam  [Lorgensky Pelicier , Smath Cadet , Wendy Jean ]
+ Copyright 2018 QuickzoneTeam  [Lorgensky Pelicier , Smath Cadet , Wendy Jean ]
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
