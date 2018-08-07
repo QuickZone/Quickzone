@@ -32,6 +32,7 @@ using Google Map API
 <img src="Directions.jpg"/>
 <img src="ResetPassword.jpg"/>
 <img src="CreateAccount.jpg"/>
+<img src="http://recordit.co/uKQxJ7vKwi"/>
 
 ## License
  Copyright 2018 QuickzoneTeam  [Lorgensky Pelicier , Smath Cadet , Wendy Jean ]
