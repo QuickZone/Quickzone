@@ -26,7 +26,7 @@ using Google Map API
 
 ##### Walkthrough 
 
-<imgsrc="quickzone.mp4"/>
+<img src= "quickzone.mp4"/>
 
 
 
