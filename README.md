@@ -27,7 +27,10 @@ using Google Map API
 ##### Walkthrough 
 
 <img src= "quickzone.mp4"/>
-
+<video controls poster="/images/w3html5.gif">
+  <source src="quickzone.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
