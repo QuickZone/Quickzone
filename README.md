@@ -25,7 +25,7 @@ using Google Map API
 
 
 ##### Walkthrough 
-<img src=""/>
+<img src="quiczone"/>
 
 
 
