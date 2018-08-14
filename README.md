@@ -25,6 +25,7 @@ using Google Map API
 
 
 ##### Walkthrough 
+<img src="quickzone_mockup.mp4"/>
 
 
 
