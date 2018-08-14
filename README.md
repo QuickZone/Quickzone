@@ -26,12 +26,7 @@ using Google Map API
 
 ##### Walkthrough 
 
-<img src="LoginScreen.jpg"/>
-<img src="MenuScreen.jpg"/>
-<img src="MapScreen.jpg"/>
-<img src="Directions.jpg"/>
-<img src="ResetPassword.jpg"/>
-<img src="CreateAccount.jpg"/>
+
 
 
 ## License
